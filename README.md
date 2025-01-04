@@ -81,8 +81,7 @@ Durante la certificación, desarrollé las siguientes competencias:
      - Configuré reglas personalizadas en un IDS para mejorar la detección futura.
 
 ## Certificado
-
-[THM-UCZPHCROPP_page-0001](https://github.com/user-attachments/assets/8d4d0cbd-29a5-44e7-ae73-8f46b6490211)
+![THM-UCZPHCROPP_page-0001](https://github.com/user-attachments/assets/9fc27557-559e-44ca-ade4-73dbb4d48353)
 
 ## Contacto
 - **LinkedIn**: [https://linkedin.com/in/tomas](https://linkedin.com/in/tomas)
