@@ -18,7 +18,7 @@ Durante la certificación, desarrollé las siguientes competencias:
 
 ## **Proyectos y Casos Prácticos**
 
-1. **Análisis de Logs de Seguridad**:
+1. **Análisis de Logs**:
    - **Descripción**:  
      Analicé registros provenientes de sistemas críticos como firewalls, servidores web y sistemas operativos para identificar actividades sospechosas y posibles intentos de intrusión.  
    - **Herramientas Utilizadas**:  
@@ -58,7 +58,7 @@ Durante la certificación, desarrollé las siguientes competencias:
    - **Resultados**:  
      - Identifiqué IoCs y elaboré un reporte técnico detallando la naturaleza y objetivos del malware.
 
-5. **Investigación de Correo Electrónico Sospechoso**:
+5. **Phishing**:
    - **Descripción**:  
      Analicé un correo electrónico sospechoso para determinar si era un ataque de phishing. Extraje y analicé los encabezados, identificando enlaces maliciosos y archivos adjuntos peligrosos.  
    - **Herramientas Utilizadas**:  
