@@ -84,5 +84,5 @@ Durante la certificación, desarrollé las siguientes competencias:
 ![THM-UCZPHCROPP_page-0001](https://github.com/user-attachments/assets/9fc27557-559e-44ca-ade4-73dbb4d48353)
 
 ## Contacto
-- **LinkedIn**: [https://linkedin.com/in/tomas](https://linkedin.com/in/tomas)
+- **LinkedIn**: [https://www.linkedin.com/in/tomas-eduardo-6ba980328/](https://linkedin.com/in/tomas)
 - **TryHackMe**:[https://tryhackme.com/r/p/TomasEduardo](https://tryhackme.com/r/p/TomasEduardo)
